@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton-master.dia",
+    "emit-module-dependencies" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton-master.swiftdeps"
+  },
+  "/Users/mobile/Downloads/RecordButton-master/Pod/Classes/RecordButton.swift" : {
+    "const-values" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.swiftconstvalues",
+    "dependencies" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.d",
+    "diagnostics" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.o",
+    "llvm-bc" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.bc",
+    "object" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.o",
+    "swift-dependencies" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton.swiftdeps",
+    "swiftmodule" : "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/Objects-normal/arm64/RecordButton~partial.swiftmodule"
+  }
+}

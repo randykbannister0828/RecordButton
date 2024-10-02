@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mobile/Downloads/RecordButton-master/Example/build/Debug-iphonesimulator/RecordButton/RecordButton.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mobile/Downloads/RecordButton-master/Example/build/Debug-iphonesimulator/RecordButton/RecordButton.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "RecordButton-Swift.h",
+      'external-contents': "/Users/mobile/Downloads/RecordButton-master/Example/build/Pods.build/Debug-iphonesimulator/RecordButton.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-RecordButton_Tests' in project 'Pods'
+➜ Explicit dependency on target 'RecordButton' in project 'Pods'
+Target 'Pods-RecordButton_Example' in project 'Pods'
+➜ Explicit dependency on target 'RecordButton' in project 'Pods'
+Target 'RecordButton' in project 'Pods' (no dependencies)

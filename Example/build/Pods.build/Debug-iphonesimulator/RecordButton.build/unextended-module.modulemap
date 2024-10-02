@@ -1,0 +1,10 @@
+framework module RecordButton {
+  umbrella header "RecordButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module RecordButton.__Swift {
+  exclude header "RecordButton-Swift.h"
+}
