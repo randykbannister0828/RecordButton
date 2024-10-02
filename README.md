@@ -1,11 +1,5 @@
 # RecordButton
 
-[![CI Status](http://img.shields.io/travis/samuelbeek/RecordButton.svg?style=flat)](https://travis-ci.org/samuelbeek/RecordButton)
-[![Version](https://img.shields.io/cocoapods/v/RecordButton.svg?style=flat)](http://cocoapods.org/pods/RecordButton)
-[![License](https://img.shields.io/cocoapods/l/RecordButton.svg?style=flat)](http://cocoapods.org/pods/RecordButton)
-[![Platform](https://img.shields.io/cocoapods/p/RecordButton.svg?style=flat)](http://cocoapods.org/pods/RecordButton)
-
-
 It shows you the recording process when recording. It's great for a video recorder app with a fixed/maximum length like snapchat, vine, instragram.
 
 ![Screenshot](http://imgur.com/S69GerW.gif)
